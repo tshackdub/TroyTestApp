@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Costco.TroyTestApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7165",
+      "launchBrowser": false
+    }
+  }
+}
